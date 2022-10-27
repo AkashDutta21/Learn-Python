@@ -25,4 +25,16 @@ isHuman = True
 print(isHuman)
 print(type(isHuman))
 print("Am I Human : " + str(isHuman))
+print("\n")
+
+# Multiple assignments
+name, age, attractive = "Akash Dutta", 21, True
+print(name)
+print(age)
+print(attractive)
+
+Player1 = Player2 = Player3 = 45
+print(Player1)
+print(Player2)
+print(Player3)
 
